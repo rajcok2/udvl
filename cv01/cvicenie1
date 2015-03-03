@@ -1,0 +1,46 @@
+p cnf 9 42
+c X je buď Rus alebo špión
+-1 -4 0
+4 1 0
+-2 -5 0
+5 2 0
+-3 -6 0
+6 3 0
+c práve jeden je Rus, ostatní dvaja sú Nemci
+1 4 4 0
+1 4 5 0
+1 4 3 0
+1 2 2 0
+1 2 5 0
+1 2 3 0
+6 6 2 0
+6 6 5 0
+6 6 3 0
+5 4 4 0
+5 4 5 0
+5 4 3 0
+5 2 2 0
+5 2 5 0
+5 2 3 0
+5 6 2 0
+5 6 5 0
+5 6 3 0
+6 4 4 0
+6 4 5 0
+6 4 3 0
+6 2 2 0
+6 2 5 0
+6 2 3 0
+6 6 2 0
+6 6 5 0
+6 6 3 0
+c  každý Rus musí byť špión
+-1 7 0
+-2 8 0
+-3 9 0
+c Stirlitz: "Müller, ty si taký Nemec, ako som ja Rus"
+-5 1 0
+-1 5 0
+c Eismann - Rus, špión
+3 0
+9 0
